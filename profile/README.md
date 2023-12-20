@@ -6,4 +6,4 @@
 
 🍿 We're interested mostly in robotics and AI for batteries and catalysis
 
-🧙 [Visit our webpage]([https://www.ch.nat.tum.de/digicat/landing-page/)
+🧙 Visit our webpage: [https://www.ch.nat.tum.de/digicat/landing-page/
